@@ -1,10 +1,9 @@
 ---
 title: "Tutoring"
 collection: teaching
-type: "Workshop"
-date: 10-2022 to 10-2024 
+type: "Association Study Tutors"
 location: "Goettingen, Germany"
 ---
 
-Tutoring and Mentoring for financially disadvantaged students for 1h per week in English and German
+Tutoring and Mentoring for financially disadvantaged students for 1h per week in English and German from 10/2022 to 10/2024
 
