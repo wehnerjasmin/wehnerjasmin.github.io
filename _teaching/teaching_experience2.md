@@ -2,7 +2,7 @@
 title: "Tutoring"
 collection: teaching
 type: "Association Study Tutors"
-location: "Goettingen, Germany"
+venue: "Goettingen, Germany"
 date: 2019-10-01
 url: "https://studytutors.de/"
 ---
