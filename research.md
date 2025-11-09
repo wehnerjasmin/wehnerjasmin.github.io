@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<div class="page-indent">
    
 ## Peer-Reviewed Publications
 
