@@ -3,7 +3,8 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-
+<div style="margin-left: 2cm;">
+   
 ## Peer-Reviewed Publications
 
 - **Liu, S., Wehner, J., Feil, J.-H., & Yu, X. (2025).** Harmony, Conflict, and Evolution of the Common Agricultural Policy in Europe: A Text Mining Survey. *Modern Agriculture*, 1–14. [DOI](https://doi.org/10.1002/moda.70020)
