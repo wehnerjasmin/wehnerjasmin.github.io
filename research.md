@@ -6,19 +6,26 @@ permalink: /research/
 
 ## Peer-Reviewed Publications
 
-- **Liu, S., Wehner, J., Feil, J.-H., & Yu, X. (2025).** Harmony, Conflict, and Evolution of the Common Agricultural Policy in Europe: A Text Mining Survey. *Modern Agriculture*, 1–14. [DOI](#)
-- **Wehner, J., & Yu, X. (2023).** Carbon tax on milk products and the exact consumer welfare measure in emerging economies. *Agribusiness*, 1–29. [DOI](#)
+- **Liu, S., Wehner, J., Feil, J.-H., & Yu, X. (2025).** Harmony, Conflict, and Evolution of the Common Agricultural Policy in Europe: A Text Mining Survey. *Modern Agriculture*, 1–14. [DOI](https://doi.org/10.1002/moda.70020)
+
+- **Wehner, J., & Yu, X. (2023).** Carbon tax on milk products and the exact consumer welfare measure in emerging economies. *Agribusiness*, 1–29. [DOI](https://doi.org/10.1002/agr.21854)
 
 ## Working Papers
 
 1. **Farm level drivers of anaerobic digester installations on dairy farms across the US**  
-   With Chris Wolf and Wendong Zhang. *Under review at Energy Policy*.
-
+   With Chris Wolf and Wendong Zhang. *Under review*.
+ <details>
+   <summary>Abstract</summary>
+   
+   This paper examines the key farm-level drivers influencing the adoption of anaerobic digesters on US dairy farms. Using a mixed-methods approach, we identify technological, economic, and regulatory factors that significantly affect adoption decisions.
+   
+   </details>
+   
 2. **Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach**  
-   With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Under review at World Development and available as discussion paper*.
+   With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Under review*.
 
 3. **Resiliency Predictions of Global Trade of Cereals to Conflicts, Covid-19, China, Climate Change, and Currency, and inCome (“6C”)**  
-   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Under review at The World Economy*.
+   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Under review*.
 
 4. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
