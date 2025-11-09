@@ -1,9 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Research"
 permalink: /research/
-collection: publications
-author_profile: true
 ---
 
 ## Peer-Reviewed Publications
