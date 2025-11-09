@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page       # most themes use 'single' or 'page' for pages with sidebar
 title: "Research"
 permalink: /research/
+author_profile: true # make sure this is set
 ---
-<div style="margin-left: 2cm;">
    
 ## Peer-Reviewed Publications
 
