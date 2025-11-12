@@ -18,7 +18,7 @@ permalink: /research/
    With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Under review at World Development and available as discussion paper*.
 
 3. **Resiliency Predictions of Global Trade of Cereals to Conflicts, Covid-19, China, Climate Change, and Currency, and inCome (“6C”)**  
-   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Under review at The World Economy*.
+   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Accepted at The World Economy*.
 
 4. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
