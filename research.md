@@ -31,7 +31,7 @@ author_profile: true
    </details>
 
 3. **Resiliency Predictions of Global Trade of Cereals to Conflicts, Covid-19, China, Climate Change, and Currency, and inCome (“6C”)**  
-   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Under review*.
+   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Accepted at The World Economy*.
 
    <details>
      <summary>Abstract</summary>
