@@ -18,13 +18,10 @@ permalink: /research/
 2. **Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach**  
    With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Under review at World Development and available as discussion paper*.
 
-3. **Resiliency Predictions of Global Trade of Cereals to Conflicts, Covid-19, China, Climate Change, and Currency, and inCome (“6C”)**  
-   With Lucie Maruejols, Lisa Höschle, Xiaohua Yu. *Accepted at The World Economy*.
-
-4. **Investigating market power in the German dairy industry**  
+3. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
 
-5. **Drivers of the Global Thirst for Milk**  
+4. **Drivers of the Global Thirst for Milk**  
    With Xiaohua Yu. *Available as discussion paper*.
 
 ## Work in Progress
