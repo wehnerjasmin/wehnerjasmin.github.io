@@ -11,7 +11,7 @@ author_profile: true
   
 - **Liu, S., Wehner, J., Feil, J.-H., & Yu, X. (2025).** Harmony, Conflict, and Evolution of the Common Agricultural Policy in Europe: A Text Mining Survey. *Modern Agriculture*, 1–14. [DOI](https://doi.org/10.1002/moda.70020)
 
-- **Wehner, J., & Yu, X. (2023).** Carbon tax on milk products and the exact consumer welfare measure in emerging economies. *Agribusiness*, 1–29. [DOI](https://doi.org/10.1002/agr.21854)
+- **Wehner, J., & Yu, X. (2023).** Carbon tax on milk products and the exact consumer welfare measure in emerging economies. *Agribusiness*, 1595–1623. [DOI](https://doi.org/10.1002/agr.21854)
 
 
 ## Working Papers
