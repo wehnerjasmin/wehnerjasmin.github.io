@@ -25,7 +25,7 @@ author_profile: true
    </details>
 
 2. **Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach**  
-   With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Under review*.
+   With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Accepted at World Development*.
 
    <details>
      <summary>Abstract</summary>
