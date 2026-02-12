@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-- **Squarcina, M., Haensch, J., Montoya Cepeda, F. M., Pallauf, M., Paz, B., Stehl, J., Wehner, J., Wollni, M.. (2026).**Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach. *World Development*, [DOI](https://doi.org/10.1016/j.worlddev.2026.107342)
+- **Squarcina, M., Haensch, J., Montoya Cepeda, F. M., Pallauf, M., Paz, B., Stehl, J., Wehner, J., Wollni, M.. (2026).** Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach. *World Development*, [DOI](https://doi.org/10.1016/j.worlddev.2026.107342)
   
 - **Maruejols, L., Wehner, J., Hoeschle, L., & Yu, X. (2025).** Gravity With Lasso: Global Cereal Trade With Factors of Conflicts, COVID-19, Currency, China, Climate Change and Income (‘6C’). *The World Economy*, 1–27. [DOI](https://doi.org/10.1111/twec.70033)
   
