@@ -7,6 +7,8 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+- **Squarcina, M., Haensch, J., Montoya Cepeda, F. M., Pallauf, M., Paz, B., Stehl, J., Wehner, J., Wollni, M.. (2026).**Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach. *World Development*, [DOI](https://doi.org/10.1016/j.worlddev.2026.107342)
+  
 - **Maruejols, L., Wehner, J., Hoeschle, L., & Yu, X. (2025).** Gravity With Lasso: Global Cereal Trade With Factors of Conflicts, COVID-19, Currency, China, Climate Change and Income (‘6C’). *The World Economy*, 1–27. [DOI](https://doi.org/10.1111/twec.70033)
   
 - **Liu, S., Wehner, J., Feil, J.-H., & Yu, X. (2025).** Harmony, Conflict, and Evolution of the Common Agricultural Policy in Europe: A Text Mining Survey. *Modern Agriculture*, 1–14. [DOI](https://doi.org/10.1002/moda.70020)
@@ -24,15 +26,7 @@ author_profile: true
      Anaerobic digesters (AD) on dairy farms are a promising methane emission reduction strategy, enabling farmers to convert manure into biogas for electricity or renewable natural gas (RNG) while generating carbon credits for environmentally friendly energy production. This study provides a farm-level, nationwide analysis of the key farm- and location-specific factors influencing AD adoption among medium and large dairy farms. Using a dataset of 2,976 geo-referenced farm-level observations from 12 U.S. states, we map existing AD installations and identify the drivers of adoption through a binary logit model. Our results indicate that the likelihood of installing an AD increases by up to 13.77 percentage points outside California and up to 39.01 percentage points within California for farms with more than 3,000 milk cows, compared to those with 200-1,000 milk cows. Between the years 2000 and 2015, the interaction between the farm size category between 1,000 and 2,000 cows and proximity to a gas pipeline seems to have influenced AD adoption. However, this combined association becomes less pronounced for installations occurring after 2016 when California's Low Carbon Fuel Standard took effect. These results suggest that current policies aimed at promoting AD adoption could be improved by tailoring incentives to different farm sizes.
    </details>
 
-2. **Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach**  
-   With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Accepted at World Development*.
-
-   <details>
-     <summary>Abstract</summary>
-     Existing measures of resilience focus on specific food system components, neglecting the complexity of the whole system. We propose a measure of resilience that encompasses three dimensions of a food system: economic profitability, environmental sustainability, and adequate nutrition. To empirically estimate the proposed model, we combine longitudinal household-level data from Malawi, Tanzania, and Nigeria with GIS data and macro-level indicators. We define resilience as a normative condition using a probabilistic moment-based approach following Cissé and Barrett (2018). To aggregate the probabilities across different dimensions into a single index of resilience, we employ and compare two different methods. Our findings indicate an overall increase in resilience of farming households over time, with improvements in Nigeria and Tanzania. Clear trade-offs are evident across the various domains of the food system. Both proposed resilience indexes demonstrate strong performance. They are correlated with improvements in income, vegetation, and dietary diversity, and they partially mitigate the effects of various shocks. The comparison between the two methods indicates a preference for the simpler PCA-based approach to measuring farmers’ resilience using a food system approach. Our findings underline the need to broaden our focus beyond individual aspects of resilience to achieve sustainable food systems.
-   </details>
-
-3. **Investigating market power in the German dairy industry**  
+2. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
 
    <details>
@@ -40,7 +34,7 @@ author_profile: true
      Market power in economic theory refers to deviations from marginal cost pricing, causing unfair competition and welfare losses. In agri-food supply chains, market power by multiple actors contributes significantly to these losses. Dairy processors, as buyers in the raw milk market and sellers in the output market, have received limited attention. Using 323 observations from German dairy processors (2010–2021), we find processors exploit their position, buying milk 9.2 percent below marginal value and selling processed milk 1.1 percent above marginal cost. To reduce welfare losses, we recommend continuous monitoring by federal authorities, considering processors’ dual roles in market power analyses.
    </details>
 
-4. **Drivers of the Global Thirst for Milk**  
+3. **Drivers of the Global Thirst for Milk**  
    With Xiaohua Yu. *Available as discussion paper*.
 
    <details>
