@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Peer-Reviewed Publications
-
+- **Squarcina, M., Hansch J., Montoya Cepeda F. M., Pallauf M., Paz B., Stehl J., Wehner J., Wollni, M. (2025).** Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach. *World Development*,[DOI](https://doi.org/10.1016/j.worlddev.2026.107342)
 - **Maruejols, L., Wehner, J., Hoeschle, L., & Yu, X. (2025).** Gravity With Lasso: Global Cereal Trade With Factors of Conflicts, COVID-19, Currency, China, Climate Change and Income (‘6C’). *The World Economy*, 1–27. [DOI](https://doi.org/10.1111/twec.70033)
 - **Liu, S., Wehner, J., Feil, J.-H., & Yu, X. (2025).** Harmony, Conflict, and Evolution of the Common Agricultural Policy in Europe: A Text Mining Survey. *Modern Agriculture*, 1–14. [DOI](#)
 - **Wehner, J., & Yu, X. (2023).** Carbon tax on milk products and the exact consumer welfare measure in emerging economies. *Agribusiness*, 1–29. [DOI](#)
@@ -15,8 +15,8 @@ permalink: /research/
 1. **Farm level drivers of anaerobic digester installations on dairy farms across the US**  
    With Chris Wolf and Wendong Zhang. *Under review at Energy Policy*.
 
-2. **Developing a Multidimensional Resilience Index for Farm Households: A Food System Approach**  
-   With Squarcina, M., J. Hansch, F. M. Montoya Cepeda, M. Pallauf, B. Paz, J. Stehl, Wollni, M. *Under review at World Development and available as discussion paper*.
+2. ****  
+   With . *Under review at World Development and available as discussion paper*.
 
 3. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
