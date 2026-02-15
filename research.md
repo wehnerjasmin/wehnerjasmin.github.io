@@ -26,7 +26,14 @@ author_profile: true
      Anaerobic digesters (AD) on dairy farms are a promising methane emission reduction strategy, enabling farmers to convert manure into biogas for electricity or renewable natural gas (RNG) while generating carbon credits for environmentally friendly energy production. This study provides a farm-level, nationwide analysis of the key farm- and location-specific factors influencing AD adoption among medium and large dairy farms. Using a dataset of 2,976 geo-referenced farm-level observations from 12 U.S. states, we map existing AD installations and identify the drivers of adoption through a binary logit model. Our results indicate that the likelihood of installing an AD increases by up to 13.77 percentage points outside California and up to 39.01 percentage points within California for farms with more than 3,000 milk cows, compared to those with 200-1,000 milk cows. Between the years 2000 and 2015, the interaction between the farm size category between 1,000 and 2,000 cows and proximity to a gas pipeline seems to have influenced AD adoption. However, this combined association becomes less pronounced for installations occurring after 2016 when California's Low Carbon Fuel Standard took effect. These results suggest that current policies aimed at promoting AD adoption could be improved by tailoring incentives to different farm sizes.
    </details>
 
-2. **Investigating market power in the German dairy industry**  
+2. **Risk Preferences, Ownership Arrangements, and Willingness to Accept Dairy Digester Investments**
+  With Chris Wolf and Wendong Zhang.
+<details>
+     <summary>Abstract</summary>
+     Dairy cattle represent a significant source of methane emissions. Among all abatement technologies, anaerobic digesters are a central climate adaptation tool for the dairy sector. Beyond the substantial variations in state-level incentive policies towards dairy digesters, management of the digester to a third party increases complexity of the adoption decision for dairy farmers. The objective of this paper is to estimate dairy farmer willingness to accept (WTA) new digester installations and how their risk preferences and digester ownership and management arrangements shape their investment decision. We convert the estimated WTAs to net present values (NPVs) in order to facilitate comparison with other financial and climate adaptation investments. Our findings offer timely and relevant guidance for industry and policymakers on the type and magnitude of necessary incentives for farmers in order to stimulate climate adaptation investments in the U.S. dairy sector. We estimate the double-bounded dichotomous contingent valuation responses following the utility-difference approach outlined by Hanemann (1984), where a respondent accepts the offer if the utility associated with accepting the installation if the annual net profits exceeds the utility of not accepting. We find that the probability of accepting a digester installation contract rises with higher annual net returns in both versions and decreases with greater risk aversion in the developer-version only. WTA estimates differ markedly across ownership models. Farmers require substantially higher compensation under farm ownership than under developer arrangements because they assume the full set of operational responsibilities and risks, including uncertain performance, technology learning, and ongoing management demands. Under a developer-owned model, mean WTA is $364 per cow annually (95% CI: $314–$406), rising slightly to $373 (95% CI: $320–$409) when accounting for risk aversion. In contrast, farm-owned systems require much higher compensation, with mean WTA of $869 and $891 when controlling for risk aversion per cow annually (95% CI: $725–$1,005), reflecting the need to cover added operational exposure and management burden. Comparing these WTA estimates to the WTA estimates from the ongoing survey with all dairy farmers will generate insights on potential WTA differences with respect to herd sizes or early vs late adopters. We convert these WTAs to NPVs to benchmark the scale of incentives needed to trigger installation. Using a 8% discount rate and a 15-year project life, we also assume a total investment to build the digester of $2,986 per cow based on the average values from the question about the investment costs in the survey. The implied NPVs are $120–$191 per cow under developer ownership and $4,122–$4,297 under farm ownership. Despite contracts that appear financially viable on paper, many respondents were unwilling to accept new digester agreements. Producers cited insufficient returns once time, labor, and management demands were considered.
+   </details>
+
+3. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
 
    <details>
@@ -34,7 +41,7 @@ author_profile: true
      Market power in economic theory refers to deviations from marginal cost pricing, causing unfair competition and welfare losses. In agri-food supply chains, market power by multiple actors contributes significantly to these losses. Dairy processors, as buyers in the raw milk market and sellers in the output market, have received limited attention. Using 323 observations from German dairy processors (2010–2021), we find processors exploit their position, buying milk 9.2 percent below marginal value and selling processed milk 1.1 percent above marginal cost. To reduce welfare losses, we recommend continuous monitoring by federal authorities, considering processors’ dual roles in market power analyses.
    </details>
 
-3. **Drivers of the Global Thirst for Milk**  
+4. **Drivers of the Global Thirst for Milk**  
    With Xiaohua Yu. *Available as discussion paper*.
 
    <details>
@@ -45,14 +52,14 @@ author_profile: true
 
 ## Work in Progress
 
-1. **Plastic Waste or Fewer Pesticides? Experimental Evidence on Consumer Preference Tradeoffs in Sustainable Vegetable Production**  
+1. **Less Plastic Waste or Fewer Pesticides? Experimental Evidence on Consumer Responses to Competing Sustainability Attributes**  
    With Tongzhe Li, Wendong Zhang, and Jingyi Tong. Pre-Registration: [AEARCTR-0016264](https://www.socialscienceregistry.org/trials/16264)
 
-2. **Dairy Digester Installations: The Role of Ownership and Herd Expansion**  
-   With Wendong Zhang and Chris Wolf. Pre-Registration: [AEARCTR-0016447](https://www.socialscienceregistry.org/trials/16447)
+2. **Insights from dairy digester operators**  
+   With Wendong Zhang, Lauren Ray, Chris Wolf, and David McLaughlin. 
 
-3. **Effect of digester adoption on methane concentrations in California**  
-   With Lauren Beatty, Wendong Zhang, Mei Collins, and Dave McLaughlin.
+3. **Do Dairy Digesters Reduce Methane Emissions? Evidence from Satellite Data**  
+   With Lauren Beatty, Wendong Zhang, Mei Mei Collins, and David McLaughlin.
 
 4. **U.S. Consumer WTP for dairy feed additives**  
    With Wendong Zhang and Chris Wolf.
