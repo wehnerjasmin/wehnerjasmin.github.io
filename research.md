@@ -29,11 +29,11 @@ author_profile: true
 2. **Risk Preferences, Ownership Arrangements, and Willingness to Accept Dairy Digester Investments**
   With Chris Wolf and Wendong Zhang.
 
-  <details>
+   <details>
      <summary>Abstract</summary>
      Dairy cattle represent a significant source of methane emissions. Among all abatement technologies, anaerobic digesters are a central climate adaptation tool for the dairy sector. Beyond the substantial variations in state-level incentive policies towards dairy digesters, management of the digester to a third party increases complexity of the adoption decision for dairy farmers. The objective of this paper is to estimate dairy farmer willingness to accept (WTA) new digester installations and how their risk preferences and digester ownership and management arrangements shape their investment decision. Our findings offer timely and relevant guidance for industry and policymakers on the type and magnitude of necessary incentives for farmers in order to stimulate climate adaptation investments in the U.S. dairy sector. We estimate the double-bounded dichotomous contingent valuation responses following the utility-difference approach outlined by Hanemann (1984). WTA estimates differ markedly across ownership models. Farmers require substantially higher compensation under farm ownership than under developer arrangements because they assume the full set of operational responsibilities and risks, including uncertain performance, technology learning, and ongoing management demands. Under a developer-owned model, mean WTA is $364 per cow annually (95% CI: $314–$406), rising slightly to $373 (95% CI: $320–$409) when accounting for risk aversion. In contrast, farm-owned systems require much higher compensation, with mean WTA of $869 and $891 when controlling for risk aversion per cow annually (95% CI: $725–$1,005), reflecting the need to cover added operational exposure and management burden. We convert these WTAs to NPVs to benchmark the scale of incentives needed to trigger installation. Despite contracts that appear financially viable on paper, many respondents were unwilling to accept new digester agreements. Producers cited insufficient returns once time, labor, and management demands were considered.
    </details>
-
+   
 3. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
 
