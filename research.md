@@ -36,12 +36,13 @@ author_profile: true
 
 3. **Insights from Operators on the Motivations and Challenges of Current and Future Dairy Digester Adoption**  
    With Wendong Zhang, Lauren Ray, Chris Wolf, and David McLaughlin.
+   
    <details>
      <summary>Abstract</summary>
-     This report describes recent developments in digester installations across the U.S. Average total investment costs per cow were $2,761 (SD $2,036) and average revenue per year and cow amount to $194 (SD $206). Every second digester is managed by a developer or firm, and 47% digester operators intend to build new or reinvest. While cost share programs are considered as most important for current and new digesters, RIN Credits (50%) and the sale of electricity (52%) were most important for current digesters and for new digesters most important aspects are next to credits (69% to 71%) also labor availability (62%). These shifts reflect shifting industry structures and the eligibility of dairy farmers to earn credits from the LCFS. We also document that almost every second dairy intents to expand within the next five years, but that revenues from the digester play only a modest role in expansion considerations. Nearly half of existing digester operators report intentions to reinvest in the digester. Our findings could help policymakers prioritize the most effective strategies for supporting and accelerating these reinvestment or new digester installations across the U.S. While financial incentives appear to be a key determinant for this decision, reducing regulatory uncertainty is critical to lower investment risk and encourage both new installations or reinvestments. Finally, developer-owned and managed digester models may help to mitigate on-farm labor challenges
+     This report describes recent developments in digester installations across the U.S. Average total investment costs per cow were $2,761 (SD $2,036) and average revenue per year and cow amount to $194 (SD $206). Every second digester is managed by a developer or firm, and 47% digester operators intend to build new or reinvest. While cost share programs are considered as most important for current and new digesters, RIN Credits (50%) and the sale of electricity (52%) were most important for current digesters and for new digesters most important aspects are next to credits (69% to 71%) also labor availability (62%). These shifts reflect shifting industry structures and the eligibility of dairy farmers to earn credits from the LCFS. We also document that almost every second dairy intents to expand within the next five years, but that revenues from the digester play only a modest role in expansion considerations. Nearly half of existing digester operators report intentions to reinvest in the digester. Our findings could help policymakers prioritize the most effective strategies for supporting and accelerating these reinvestment or new digester installations across the U.S. While financial incentives appear to be a key determinant for this decision, reducing regulatory uncertainty is critical to lower investment risk and encourage both new installations or reinvestments. Finally, developer-owned and managed digester models may help to mitigate on-farm labor challenges.
    </details>
 
-4. **Investigating market power in the German dairy industry**  
+5. **Investigating market power in the German dairy industry**  
    With Jan-Henning Feil and Xiaohua Yu. *Available as discussion paper*.
 
    <details>
@@ -49,7 +50,7 @@ author_profile: true
      Market power in economic theory refers to deviations from marginal cost pricing, causing unfair competition and welfare losses. In agri-food supply chains, market power by multiple actors contributes significantly to these losses. Dairy processors, as buyers in the raw milk market and sellers in the output market, have received limited attention. Using 323 observations from German dairy processors (2010–2021), we find processors exploit their position, buying milk 9.2 percent below marginal value and selling processed milk 1.1 percent above marginal cost. To reduce welfare losses, we recommend continuous monitoring by federal authorities, considering processors’ dual roles in market power analyses.
    </details>
 
-5. **Drivers of the Global Thirst for Milk**  
+6. **Drivers of the Global Thirst for Milk**  
    With Xiaohua Yu. *Available as discussion paper*.
 
    <details>
