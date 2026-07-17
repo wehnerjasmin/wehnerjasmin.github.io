@@ -60,7 +60,7 @@ author_profile: true
    
 ## Work in Progress
 
--  **Negative information from abroad vs climate-policy financial incentives: U.S. Dairy Farmers' Willingness to Adopt Methane Reducing Feed Additives?**
+-  **Negative News From Abroad vs Climate-policy Financial Incentives at Home: WTA for 3-NOP among U.S. Dairy farmers**
 With Wendong Zhang and Chris Wolf
  
 -  **Herd Size Expansion Plans of Dairy Farms in the U.S.**
