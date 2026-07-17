@@ -76,7 +76,7 @@ With Dela-Dem Doe Fiankor, Bernhard Dalheimer, Wendong Zhang and Xiaohua Yu
 
 - **Wehner, J.**, Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A., Miller, E. (2025). Kentucky Consumer Perceptions and Key Attributes in the Willingness-to-Pay Study for Cucumbers. *SSRN*, [DOI](http://dx.doi.org/10.2139/ssrn.5767702)
   
-- **Wehner, J.**, Feil, J.-H., Yu, X** (2024): Investigating market power in the German dairy industry.
+- **Wehner, J.**, Feil, J.-H., Yu, X (2024): Investigating market power in the German dairy industry.
 [Available as discussion paper](https://www.econstor.eu/bitstream/10419/306272/1/1907335803.pdf)
 
 - **Wehner, J.**, Yu, X (2024): Drivers Of The Global Thirst For Milk.
