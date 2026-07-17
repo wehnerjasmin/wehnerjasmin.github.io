@@ -19,7 +19,7 @@ author_profile: true
 
 ## Working Papers
 1. **Risk Preferences, Ownership Arrangements, and Willingness to Accept Dairy Digester Investments**  
-   With Chris Wolf and Wendong Zhang.
+   With Chris Wolf and Wendong Zhang. Pre-Registration: [AEARCTR-0016447](https://www.socialscienceregistry.org/trials/16447)
 
    <details>
      <summary>Abstract</summary>
