@@ -57,26 +57,27 @@ author_profile: true
      <summary>Abstract</summary>
      Anaerobic digesters (ADs) on U.S. dairy farms reduce methane emissions and generate renewable energy, yet adoption remains low and unevenly distributed. Using 2,976 geo-referenced farm-level observations from 12 states, we find predicted adoption probabilities are highest for farms $>$3,000 cows relative to the smallest farms (200--1,000 cows). Associations between pipeline proximity and predicted adoption vary by farm size, most pronounced among mid-sized operations (2,000--3,000 cows), where a proximity advantage attenuates after 2016, consistent with the nationwide reach of California's Low Carbon Fuel Standard. These patterns suggest size-targeted incentive structures could broaden dairy methane reduction across U.S. farm types.
    </details>
+   
 ## Work in Progress
 
-1. **Negative information from abroad vs climate-policy financial incentives: U.S. Dairy Farmers' Willingness to Adopt Methane Reducing Feed Additives?**
+-  **Negative information from abroad vs climate-policy financial incentives: U.S. Dairy Farmers' Willingness to Adopt Methane Reducing Feed Additives?**
 With Wendong Zhang and Chris Wolf
  
-2. **Herd Size Expansion Plans of Dairy Farms in the U.S.**
+-  **Herd Size Expansion Plans of Dairy Farms in the U.S.**
 With Wendong Zhang and Chris Wolf
 
-3. **How News Consumption and Institutional Trust Shape Perceived Effectiveness of Emission Reductions: Evidence from high income countries**
+-  **How News Consumption and Institutional Trust Shape Perceived Effectiveness of Emission Reductions: Evidence from high income countries**
 With Giacomo Ferraro, Doris Laeppple, Jens Rommel, Daniel Enriquez Hidalgo Wendong Zhang and Chris Wolf
 
-4. **Food Safety or Foreign Policy? Using Machine Learning to Predict EU Border Rejections**
+-  **Food Safety or Foreign Policy? Using Machine Learning to Predict EU Border Rejections**
 With Dela-Dem Doe Fiankor, Bernhard Dalheimer, Wendong Zhang and Xiaohua Yu
 
 ## Non Peer-Reviewed Publications
 
 - **Wehner, J.**, Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A., Miller, E. (2025). Kentucky Consumer Perceptions and Key Attributes in the Willingness-to-Pay Study for Cucumbers. *SSRN*, [DOI](http://dx.doi.org/10.2139/ssrn.5767702)
   
--**Wehner, J.**, Feil, J.-H., Yu, X** (2024): Investigating market power in the German dairy industry.
+- **Wehner, J.**, Feil, J.-H., Yu, X** (2024): Investigating market power in the German dairy industry.
 [Available as discussion paper](https://www.econstor.eu/bitstream/10419/306272/1/1907335803.pdf)
 
--**Wehner, J.**, Yu, X (2024): Drivers Of The Global Thirst For Milk.
+- **Wehner, J.**, Yu, X (2024): Drivers Of The Global Thirst For Milk.
  [Available as discussion paper](https://www.econstor.eu/bitstream/10419/306273/1/1907336117.pdf)
