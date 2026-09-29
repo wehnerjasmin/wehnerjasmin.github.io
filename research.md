@@ -35,8 +35,7 @@ author_profile: true
    </details>
 
 3. **Do Dairy Digesters Deliver Promised Methane Reduction? Evidence from Satellite Data**  
-   With Lauren Beatty, Wendong Zhang, Mei Mei Collins, and David McLaughlin.
-
+   With Lauren Beatty, Wendong Zhang, Mei Mei Collins, and David McLaughlin
    <details>
      <summary>Abstract</summary>
      Globally, livestock—primarily beef and dairy cattle—account for roughly one-third of anthropogenic methane emissions. Yet farm-level emissions have never been observed at scale, so
