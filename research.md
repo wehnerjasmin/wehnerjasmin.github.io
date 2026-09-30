@@ -43,7 +43,7 @@ abatement policy pays against engineering projections rather than realized reduc
 percentage points. At the program level, realized reductions are 1.59 times the mean projection, although this comparison is imprecise and does not establish over-delivery. Public spending per realized ton of methane is $162, well below the $1,778 social cost of a combusted ton.
    </details>
 
-4. **How Belief Updating Turns Consumer Valuation of Low-Methane Milk from “Sounds Yucky” to “Sounds Good”**  
+4. **How Belief Updating after Communication of Scientific (Un)Certainty Shapes Consumer Valuation of Low-Methane Milk**  
    With Wendong Zhang and Chris Wolf. Pre-Registration: [Pre-Registration June 15, 2026](https://doi.org/10.1257/rct.18877-1.0)
    <details>
      <summary>Abstract</summary>
