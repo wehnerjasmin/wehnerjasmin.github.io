@@ -27,11 +27,15 @@ author_profile: true
    </details>
 
 2. **Asymmetric Consumer Responses to Competing Sustainability Attributes: Evidence from a Lab-in-the-Field Experiment**  
-   With Tongzhe Li, Wendong Zhang, and Jingyi Tong. Pre-Registration: [Pre-Registration July 7, 2025](https://doi.org/10.1257/rct.16264-1.0)
+   With Tongzhe Li, Wendong Zhang, and Jingyi Tong. Pre-Registration: [Pre-Registration July 7, 2025](https://doi.org/10.1257/rct.16264-1.0) *Under review*.
 
    <details>
      <summary>Abstract</summary>
-     Innovations can improve one environmental attribute while worsening another. We examine whether consumers respond symmetrically to positive and negative information about such trade-offs. In a preregistered lab-in-the-field experiment with 913 adult consumers, a randomized posted-price mechanism elicits willingness to pay (WTP) for cucumbers grown with and without protective netting, an innovation that reduces pesticide use but increases plastic inputs. Via between-subject randomization, participants receive information about reduced pesticide use, increased plastic use, both attributes, or neither. Absent attribute-specific information, consumers are willing to pay a 37 percent premium (\$0.81) for the innovation. Relative to the control group, information about increased plastic use reduces WTP for the product grown with the innovation by 46 percent (\$1.42), whereas information about reduced pesticide use does not yield a significant effect, but is associated with lower WTP for the product without the innovation. We reject the null hypothesis of symmetric effects for the product carrying the innovation. Presenting both attributes simultaneously reduces WTP for the product grown with the innovation by 19 percent (\$0.58). The findings show that competing sustainability disclosures generate asymmetric valuation responses and that the composition of disclosed information can materially shape consumer valuation of innovations with mixed environmental effects.
+     Innovations can improve one environmental attribute while worsening another. We examine whether consumers respond symmetrically to positive and negative information about such trade-offs. In a preregistered lab-in-the-field experiment with 913 adult consumers, a randomized posted-price mechanism elicits willingness to pay (WTP) for cucumbers grown with and without protective netting, an innovation that reduces pesticide use but increases plastic inputs.
+Via between-subject randomization, participants receive information about reduced pesticide use, increased plastic use, both attributes, or neither. Absent attribute-specific information,
+consumers are willing to pay a 37 percent premium ($0.81) for the innovation. Relative to the control group, information about increased plastic use reduces WTP for the product grown with
+the innovation by 46 percent ($1.42), whereas information about reduced pesticide use does not yield a significant effect, but is associated with lower WTP for the product without the
+innovation. We reject the null hypothesis of symmetric effects for the product carrying the innovation. Presenting both attributes simultaneously reduces WTP for the product grown with the innovation by 19 percent ($0.58). The findings show that competing sustainability disclosures generate asymmetric valuation responses and that the composition of disclosed information can materially shape consumer valuation of innovations with mixed environmental effects.
    </details>
 
 3. **Do Dairy Digesters Deliver Promised Methane Reduction? Evidence from Satellite Data**  
@@ -63,7 +67,7 @@ percentage points. At the program level, realized reductions are 1.59 times the 
 -  **Negative News From Abroad vs Climate-policy Financial Incentives at Home: WTA for 3-NOP among U.S. Dairy farmers**
 With Wendong Zhang and Chris Wolf Pre-Registration: [Pre-Registration September 28, 2026](https://doi.org/10.1257/rct.19814-1.0)
  
--  **Herd Size Expansion Plans of Dairy Farms in the U.S.**
+-  **Current Adoption Patterns and Willingness To Accept Methane Reducing Technologies on U.S. Dairy Farms**
 With Wendong Zhang and Chris Wolf
 
 -  **How News Consumption and Institutional Trust Shape Perceived Effectiveness of Emission Reductions: Evidence from high income countries**
