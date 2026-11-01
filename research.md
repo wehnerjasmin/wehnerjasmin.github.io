@@ -21,14 +21,23 @@ author_profile: true
      Globally, livestock—primarily beef and dairy cattle—account for roughly one-third of anthropogenic methane emissions. Yet farm-level emissions have never been observed at scale, so abatement policy pays against engineering projections rather than realized reductions: public money is committed before any abatement exists, and the projections are never tested against what the equipment averts. This paper uses aerial point-source remote sensing to measure what an agri-environmental subsidy actually buys. We match Carbon Mapper airborne methane retrievals to 2,115 California dairy farms over 2016–2025, link them to the administrative records of the state’s dairy anaerobic digester cost-share program, and estimate staggered difference-in-differences regression accounting for variation in treatement timing, using farms that have not yet installed a digester as controls. Digester installation reduces measured emissions by 113.22 kilograms per hour (95 percent confidence interval, 45.40 to 181.05), about 992 metric tons of methane per farm-year, and lowers the share of overpasses with a detectable plume by 46.6 percentage points. At the program level, realized reductions are 1.59 times the mean projection, although this comparison is imprecise and does not establish over-delivery. Public spending per realized ton of methane is $162, well below the $1,778 social cost of a combusted ton.
    </details>
 
-4. **How Belief Updating after Communication of Scientific (Un)Certainty Shapes Consumer Valuation of Low-Methane Milk**  
+3. **How Belief Updating after Communication of Scientific (Un)Certainty Shapes Consumer Valuation of Low-Methane Milk**  
    With Wendong Zhang and Chris Wolf. Pre-Registration: [Pre-Registration June 15, 2026](https://doi.org/10.1257/rct.18877-1.0)
    <details>
      <summary>Abstract</summary>
      Enteric fermentation in the rumen accounts for approximately 50 percent of methane emissions from dairy cattle. Among the most promising intervention strategies are feed additives, including 3-Nitrooxypropanol (3-NOP). Yet novel agricultural technologies frequently meet consumer skepticism as qualitative comments range from "sounds yucky" to "sounds good". It is unclear how the range in scientific estimates of 3-NOP's effectiveness, combined with the spread of misinformation across media platforms and varying levels of trust in information sources, shapes consumers' evaluation of methane-reducing feed additives. To answer these questions, we combine a discrete choice experiment on milk produced with 3-NOP with an elicitation of prior and posterior beliefs, embedded in randomized treatments that vary how scientific evidence on the additive's efficacy is communicated. Preliminary findings suggest that information induces belief convergence toward the communicated value. Consumers with low prior beliefs revise upward, while those with high priors revise downward. The extent of updating varies with consumption patterns, prior knowledge, interest in sustainability, trust in institutions, and media consumption. We further find that believed efficacy increases willingness to pay for low-methane milk. The findings point to strong market potential for low-methane milk, while highlighting that consumer demand is driven by underlying, long-term established beliefs rather than by a sudden information shock.
    </details>
+
+4. **Willingness to Switch and Abatement Costs for Methane Mitigation Strategies on U.S. Dairy Farms**  
+   With Chris Wolf and Wendong Zhang. 
+
+   <details>
+     <summary>Abstract</summary>
+     Dairy farms are a major source of methane emissions in U.S. agriculture, yet little is known about the compensation farmers require to adopt mitigation practices. Using a survey of 274 U.S. dairy farms, we document current adoption of enteric methane and manure methane practices and elicit willingness to change through a double-bounded contingent valuation design with premiums of \$0.50 and \$1.00 per hundredweight. Only 11 percent of farms use an enteric methane practice and 27 percent use a manure methane practice currently. Among non-adopters, feed additives require the lowest premium at \$0.094 per gallon, and a premium of \$1 per hundredweight raises stated adoption of feed additives from 7 to 42 percent. Anaerobic digesters require the highest premium at \$0.137 per gallon. Required premiums fall with herd size and are lower among farmers who perceive a practice as effective. However, the ranking reverses once premiums are expressed per ton of CO$_2$e avoided because methane emission related practices achieve largest reduction per cow, while (digesters up to \$113 per ton vs feed additives cost \$207 per ton of avoided CO$_2$e. 
+
+   </details>
    
-5. **Asymmetric Consumer Responses to Competing Sustainability Attributes of Innovation*  
+5. **Asymmetric Consumer Responses to Competing Sustainability Attributes of Innovation**  
    With Tongzhe Li, Wendong Zhang, and Jingyi Tong. Pre-Registration: [Pre-Registration July 7, 2025](https://doi.org/10.1257/rct.16264-1.0) *Under review*.
 
    <details>
@@ -36,7 +45,7 @@ author_profile: true
      Innovations can improve one environmental attribute while worsening another. We examine whether consumers respond symmetrically to positive and negative information about such trade-offs. In a preregistered lab-in-the-field experiment with 913 adult consumers, a randomized posted-price mechanism elicits willingness to pay (WTP) for cucumbers grown with and without protective netting, an innovation that reduces pesticide use but increases plastic inputs. Via between-subject randomization, participants receive information about reduced pesticide use, increased plastic use, both attributes, or neither. Absent attribute-specific information, consumers are willing to pay a 37 percent premium ($0.81) for the innovation. Relative to the control group, information about increased plastic use reduces WTP for the product grown with the innovation by 46 percent ($1.42), whereas information about reduced pesticide use does not yield a significant effect, but is associated with lower WTP for the product without the innovation. We reject the null hypothesis of symmetric effects for the product carrying the innovation. Presenting both attributes simultaneously reduces WTP for the product grown with the innovation by 19 percent ($0.58). The findings show that competing sustainability disclosures generate asymmetric valuation responses and that the composition of disclosed information can materially shape consumer valuation of innovations with mixed environmental effects.
    </details>
    
-5. **Barriers and Incentives to Anaerobic Digester Adoption: A Nationwide Analysis of U.S. Dairy Farms**  
+6. **Barriers and Incentives to Anaerobic Digester Adoption: A Nationwide Analysis of U.S. Dairy Farms**  
    With Chris Wolf and Wendong Zhang. *Under review*.
 
    <details>
@@ -62,6 +71,9 @@ author_profile: true
 With Wendong Zhang and Chris Wolf Pre-Registration: [Pre-Registration September 28, 2026](https://doi.org/10.1257/rct.19814-1.0)
  
 -  **Current Adoption Patterns and Willingness To Accept Methane Reducing Technologies on U.S. Dairy Farms**
+With Wendong Zhang and Chris Wolf
+
+-  **Ranking U.S. Consumer Preferences for Methane Mitigation with Best-Worst Scaling**
 With Wendong Zhang and Chris Wolf
 
 -  **How News Consumption and Institutional Trust Shape Perceived Effectiveness of Emission Reductions: Evidence from high income countries**
